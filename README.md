@@ -29,10 +29,10 @@ El objetivo de este proyecto es implementar algoritmos de administración de pet
 Para utilizar este proyecto, sigue estos pasos:
 
 Descarga o clona el repositorio.
-$ git clone https://github.com/emadiaz15/Administrador_peticiones.git
+$ ```bash git clone https://github.com/emadiaz15/Administrador_peticiones.git
 
 Ejecuta el programa principal:
-$ python main.py
+$ ```bash python main.py
 
 ## Tecnologías utilizadas
 
